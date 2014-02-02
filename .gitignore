@@ -1,5 +1,5 @@
-platforms/
-plugins/
+#platforms/
+#plugins/
 
 # built application files
 *.apk
