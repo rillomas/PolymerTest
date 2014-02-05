@@ -6,19 +6,19 @@
   "version": "0.1.1",
   "offline_enabled": true,
   "icons": {
-    "16": "web/assets/icons/icon16.png",
-    "36": "web/assets/icons/icon36.png",
-    "48": "web/assets/icons/icon48.png",
-    "57": "web/assets/icons/icon57.png",
-    "72": "web/assets/icons/icon72.png",
-    "96": "web/assets/icons/icon96.png",
-    "114": "web/assets/icons/icon114.png",
-    "128": "web/assets/icons/icon128.png",
-    "144": "web/assets/icons/icon144.png"
+    "16": "build/icons/icon16.png",
+    "36": "build/icons/icon36.png",
+    "48": "build/icons/icon48.png",
+    "57": "build/icons/icon57.png",
+    "72": "build/icons/icon72.png",
+    "96": "build/icons/icon96.png",
+    "114": "build/icons/icon114.png",
+    "128": "build/icons/icon128.png",
+    "144": "build/icons/icon144.png"
   },
   "app": {
     "background": {
-      "scripts": ["web/background.js"]
+      "scripts": ["build/background.js"]
     }
   },
   "permissions": [

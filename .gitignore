@@ -1,6 +1,10 @@
 #platforms/
 #plugins/
 
+# dart packages
+packages/
+pubspec.lock
+
 # built application files
 *.apk
 *.ap_
