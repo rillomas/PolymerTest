@@ -5,6 +5,9 @@
 packages/
 pubspec.lock
 
+# dart2js
+www/build
+
 # built application files
 *.apk
 *.ap_
