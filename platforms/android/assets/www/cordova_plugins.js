@@ -159,13 +159,6 @@ module.exports = [
         ]
     },
     {
-        "file": "plugins/org.apache.cordova.statusbar/www/statusbar.js",
-        "id": "org.apache.cordova.statusbar.statusbar",
-        "clobbers": [
-            "window.StatusBar"
-        ]
-    },
-    {
         "file": "plugins/org.chromium.bootstrap/api/app/window.js",
         "id": "org.chromium.bootstrap.app.window",
         "clobbers": [

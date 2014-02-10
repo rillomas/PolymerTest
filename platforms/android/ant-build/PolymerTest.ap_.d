@@ -1,4 +1,4 @@
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\HelloWorld.ap_ \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\PolymerTest.ap_ \
  : C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\res\drawable\icon.png \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\res\drawable-hdpi\icon.png \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\res\drawable-hdpi\ic_action_next_item.png \
@@ -50,6 +50,7 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\pubspe
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\pubspec.yaml \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\web \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\background.js \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\bootstrap.min.css \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\icons \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\index.css \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\index.html \
@@ -57,7 +58,6 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\index.html_bootstrap.dart.js.map \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\index.html_bootstrap.dart.precompiled.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\_index.html \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\icons\icon114.png \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\icons\icon128.png \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\icons\icon144.png \
@@ -111,7 +111,6 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugin
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.apache.cordova.inappbrowser \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.apache.cordova.keyboard \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.apache.cordova.network-information \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.apache.cordova.statusbar \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.bootstrap \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.common \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.i18n \
@@ -147,8 +146,6 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugin
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.apache.cordova.network-information\www \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.apache.cordova.network-information\www\Connection.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.apache.cordova.network-information\www\network.js \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.apache.cordova.statusbar\www \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.apache.cordova.statusbar\www\statusbar.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.bootstrap\api \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.bootstrap\chromeapp.html \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.bootstrap\chromeappstyles.css \
@@ -176,10 +173,10 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugin
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.runtime\lib\CryptoJS\sha256.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.storage\storage.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\web\background.js \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\web\bootstrap.min.css \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\web\icons \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\web\index.css \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\web\index.html \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\web\_index.html \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\web\icons\icon114.png \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\web\icons\icon128.png \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\web\icons\icon144.png \

@@ -1,11 +1,4 @@
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes.dex : \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\com\your\company\HelloWorld\BuildConfig.class \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\com\your\company\HelloWorld\HelloWorld.class \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\com\your\company\HelloWorld\R$attr.class \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\com\your\company\HelloWorld\R$drawable.class \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\com\your\company\HelloWorld\R$string.class \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\com\your\company\HelloWorld\R$xml.class \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\com\your\company\HelloWorld\R.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\apache\cordova\file\ContentFilesystem.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\apache\cordova\file\DirectoryManager.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\apache\cordova\file\EncodingException.class \
@@ -74,7 +67,7 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeStorage$5.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeStorage.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\rillomas\PolymerTest\BuildConfig.class \
-C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\rillomas\PolymerTest\HelloWorld.class \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\rillomas\PolymerTest\PolymerTest.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\rillomas\PolymerTest\R$attr.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\rillomas\PolymerTest\R$drawable.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\rillomas\PolymerTest\R$string.class \

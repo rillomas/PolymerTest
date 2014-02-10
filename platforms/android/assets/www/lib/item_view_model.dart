@@ -1,7 +1,7 @@
 import 'dart:math';
 import 'package:polymer/polymer.dart';
 
-class ItemViewModel {
+class ItemViewModel extends Observable {
 	ItemViewModel(this.text);
 
 	/// text of this item
