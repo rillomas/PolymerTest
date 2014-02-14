@@ -1,5 +1,7 @@
 import 'dart:html';
+import 'dart:js';
 import 'package:polymer/polymer.dart';
+import 'package:chrome/chrome_app.dart' as chrome;
 import 'item_view_model.dart';
 import 'custom-list.dart';
 
@@ -52,6 +54,37 @@ class MainApp extends PolymerElement {
 		bounceBackNum--;
 		resetLayout();
 	}
+	
+	void notify(Event e, var detail, Node target) {
+		var id = "notifyId";
+		var option = new chrome.NotificationOptions(
+			type: chrome.TemplateType.BASIC,
+			iconUrl: "icons/icon16.png",
+			title: "Sample Notification",
+			message: "Sample message"
+		);
+
+		chrome.notifications.create(id, option).then((msg) {
+			print(msg);
+		});
+
+		  // var id = "notifyId";
+		  // var func = new JsFunction.withThis((str) {
+		  // 	print(str);
+		  // });
+		  // var notifyOption = new JsObject.jsify({
+		  // 	"type": "basic",
+		  // 	"iconUrl": "http://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png",
+		  // 	"title": "Sample Notification",
+		  // 	"message": "Sample message",
+		  // });
+		  // print(chrome);
+		  // var notifications = chrome["notifications"];
+		  // print(notifications);
+		  // var runtime = chrome["runtime"];
+		  // print(runtime);
+		  // notifications.callMethod('create', [id, notifyOption, func]);
+	}
 
 	void resetLayout() {
 		var list = [];
@@ -60,5 +93,4 @@ class MainApp extends PolymerElement {
 		}
 		itemList = toObservable(list);
 	}
-
 }

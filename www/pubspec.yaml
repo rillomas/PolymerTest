@@ -1,8 +1,8 @@
 name: custom_list
 dependencies:
   polymer: any
+  chrome: any
 transformers:
 - polymer:
     entry_points: web/index.html
     csp: true
-    

@@ -7,17 +7,23 @@
 		}
 		.header {
 			font-weight: bold;
-			width: 200px;
+			width: 100px;
 			text-align: right;
 			float: left;
 			margin-right: 15px;
+		}
+		.textbox {
+			width: 75px;
 		}
 		</style>
 		<fieldset>
 			<legend>Custom List Control</legend>
 			<p>
+				<button on-click="{{notify}}">Notify!</button>
+			</p>
+<!-- 			<p>
 				<label class="header">Add item:</label>
-				<input type="text" value="{{text}}">
+				<input class="textbox" type="text" value="{{text}}">
 				<button on-click="{{addItem}}">Add</button>
 			</p>
 			<p>
@@ -30,7 +36,7 @@
 				{{bounceBackNum}}
 				<button on-click="{{incrementBounceBack}}" disabled?="{{!canIncrement}}">+</button>
 			</p>
-		</fieldset>
+ -->		</fieldset>
 		<custom-list itemlist="{{itemList}}" bouncebacknum="{{bounceBackNum}}"></custom-list>
 	</template>
 	<script type="application/dart" src="main-app.dart"></script>

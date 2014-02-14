@@ -68,6 +68,7 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\icons\icon72.png \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\icons\icon96.png \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\browser \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\chrome \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\custom_element \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\custom_list \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\html_import \
@@ -76,6 +77,7 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\shadow_dom \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\browser\dart.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\browser\interop.js \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\chrome\bootstrap.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\custom_element\custom-elements.debug.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\custom_element\custom-elements.min.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\build\packages\custom_list\custom-list-item.html \
@@ -114,6 +116,7 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugin
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.bootstrap \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.common \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.i18n \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.notifications \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.polyfill.blob_constructor \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.polyfill.CustomEvent \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.polyfill.xhr_features \
@@ -160,6 +163,7 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugin
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.common\helpers.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.common\stubs.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.i18n\i18n.js \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.notifications\notifications.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.polyfill.blob_constructor\Blob.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.polyfill.CustomEvent\customEvent.js \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\assets\www\plugins\org.chromium.polyfill.xhr_features\xhr-blob.js \

@@ -60,12 +60,17 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeExtensionURLs.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeI18n.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeNavigation.class \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeNotifications$1.class \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeNotifications$2.class \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeNotifications$EventInfo.class \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeNotifications.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeStorage$1.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeStorage$2.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeStorage$3.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeStorage$4.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeStorage$5.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\ChromeStorage.class \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\org\chromium\NotificationReceiver.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\rillomas\PolymerTest\BuildConfig.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\rillomas\PolymerTest\PolymerTest.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\rillomas\PolymerTest\R$attr.class \
@@ -74,3 +79,4 @@ C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\rillomas\PolymerTest\R$xml.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\classes\rillomas\PolymerTest\R.class \
 C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\dexedLibs\classes-9f90dd6d1b50992a7b17f2e11dc40122.jar \
+C:\Users\masato\Documents\GitHub\PolymerTest\platforms\android\ant-build\dexedLibs\android-support-v4-c025f6c2b53b95b2dd3ea6164af2ed47.jar \
